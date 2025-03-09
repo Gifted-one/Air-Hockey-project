@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 889e15bf739c6344c87a3f5a7a98605a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - systemController: {instanceID: 0}
+  - puck: {fileID: 791884194307863000, guid: c0583b4e855c74b8c82e7b9b5efb5ce9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
